@@ -767,7 +767,7 @@ export default class ShopManageTable extends React.Component<any, any> {
         >
           <div className="flex flex-col w-full h-full bg-white rounded-t-[10px]">
             <div className="flex w-full h-[40px] px-[30px] bg-[#BCD8F1] rounded-t-[10px]">
-              <h1 className="font-Meiryo text-[14px] my-auto">類義語削除</h1>
+              <h1 className="font-Meiryo text-[14px] my-auto">削除</h1>
             </div>
             <div className="flex flex-col m-auto">
               <h5 className="font-Meiryo text-[14px] my-[20px] mx-auto text-center">
