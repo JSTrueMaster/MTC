@@ -1,13 +1,13 @@
 const dev = {
-  API_ENDPOINT_URL: "http://34.244.148.21:4001",
-  IMAGE_PATH: "http://34.244.148.21:4001/uploads/store/images/",
-  FILE_PATH: "http://34.244.148.21:4001/uploads/store/docs/",
+  API_ENDPOINT_URL: "http://localhost:4001",
+  IMAGE_PATH: "http://localhost:4001/uploads/store/images/",
+  FILE_PATH: "http://localhost:4001/uploads/store/docs/",
 };
 
 const prod = {
-  API_ENDPOINT_URL: "http://34.244.148.21:4001",
-  IMAGE_PATH: "http://34.244.148.21:4001/uploads/store/images/",
-  FILE_PATH: "http://34.244.148.21:4001/uploads/store/docs/",
+  API_ENDPOINT_URL: "http://localhost:4001",
+  IMAGE_PATH: "http://localhost:4001/uploads/store/images/",
+  FILE_PATH: "http://localhost:4001/uploads/store/docs/",
 };
 
 const getEnv = () => {
